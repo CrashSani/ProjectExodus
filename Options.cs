@@ -1,5 +1,5 @@
 ﻿// Copyright © Pixel Crushers. All rights reserved.
-
+// Some work has been added base is owned by Pixel Crushers, this is added from the music, options, volume slider, mixer parameters.
 using UnityEngine;
 using UnityEngine.Audio;
 using System.Collections;
