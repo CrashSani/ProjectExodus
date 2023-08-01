@@ -231,7 +231,7 @@ namespace PixelCrushers.DialogueSystem.MenuSystem
             }
         }
 
-        public virtual void SetMusicLevel(float musicLevel)
+        public virtual void SetMusicLevel(float musicLevel)//added this part
         {
             if (!m_started) return;
             if (mainMixer != null)
